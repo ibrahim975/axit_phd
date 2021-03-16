@@ -686,5 +686,184 @@ footer{
 	.navbar-nav {
 	    text-align: center;
 	}
+	.banner-section {
+	    padding: 30px 0;
+	    text-align: center;
+	}
+	.banner-section img {
+		margin: 15px 0 20px;
+	    max-width: 25%;
+	}
+	.banner-section h2 {
+	    font-size: 26px;
+	    padding-right: 0;
+	}
+	.banner-shape {
+	    margin: 15px auto;
+	}
+	.banner-section p {
+	    padding: 0 30px;
+	}
+	.banner-btn {
+	    padding: 5px 10px;
+	    font-size: 15px;
+	}
+	.banner-card {
+	    width: 90%;
+	    display: block;
+	    margin: 15px auto;
+	}
+	.social-media-section h3 {
+	    text-align: center;
+	}
+	.social-media-section p {
+	    text-align: center;
+	}
+	.social-icon {
+	    margin-top: 30px;
+	    text-align: center;
+	}
+	.social-icon ul li .fa {
+	    font-size: 32px;
+	}
+	.Features-section {
+		padding: 50px 0;
+	}
+	.tab-box{
+		text-align: center;
+	}
+	.tab-box ul li {
+	    display: inline-block;
+	    width: 100px;
+	    height: 100px;
+	    line-height: 100px;
+	}
+	.features-content h3 {
+	    padding: 10px 0;
+	}
+	.Features-section img {
+	    margin: 40px auto 0;
+	    display: block;
+	}
+	.features-bnt {
+	    margin-top: 10px;
+	}
+	.sub-list-section {
+	    padding: 50px 0;
+	}
+	.sub-list-section h3 {
+		text-align: center;
+	    margin-top: 32px;
+	}
+	.sub-list-section .heading-shape {
+	    margin: 20px auto;
+	    display: block;
+	}
+	.picture-section {
+	    padding: 50px 0;
+	}
+	.picture-section h3 {
+	    text-align: center;
+	}
+	.picture-section .heading-shape {
+	    margin: 20px auto;
+	   display: block;
+	}
+	.awesome-section {
+	    padding: 50px 0;
+	}
+	.awesome-section h2 {
+	    font-size: 28px;
+	}
+	.awesome-section .heading-shape {
+	    margin: 10px auto;
+	}
+	.awesome-flex {
+	    padding-top: 20px;
+	}
+	.awesome-flex h3 {
+	    margin: 10px 0 8px;
+	}
+	.awesome-flex p {
+	    margin-bottom: 40px;
+	}
+	.pricing-section {
+	    padding: 50px 0;
+	}
+	.pricing-section h2 {
+	    font-size: 28px;
+	}
+	.pricing-section .heading-shape {
+	    margin: 10px auto;
+	}
+	.card-section .card {
+	    margin: 20px auto;
+	}
+	.card-section .card h3 {
+	    font-size: 20px;
+	    padding: 0;
+	}
+	.card-section .card .card-title span {
+	    font-size: 70px;
+	} 
+	.customer-section {
+	    padding: 50px 0;
+	}
+	.customer-section h2 {
+	    font-size: 28px;
+	    padding: 0 20px;
+	}
+	.customer-section .heading-shape {
+	    margin: 10px auto;
+	}
+	.customer-section .customer-flex {
+	    padding-top: 30px;
+	}
+	.customer-flex .message-box {
+	    margin: 0 auto;
+	}
+	.customer-flex .message-img {
+	    margin: 15px 80px;
+	}
+	.stylish-section {
+	    padding: 50px 0;
+	}
+	.stylish-section h2 {
+	    font-size: 28px;
+	}
+	.stylish-section .heading-shape {
+	    margin: 10px auto;
+	}
+	.stylish-btn {
+	    padding: 5px 10px;
+	    font-size: 15px;
+	}
+	.contact-section {
+	    padding: 50px 0 16px;
+	}
+	.contact-section h2 {
+	    font-size: 28px;
+	}
+	.contact-section .heading-shape {
+	    margin: 10px auto;
+	}
+	.form-control {
+	    padding: 20px 10px;
+	}
+	.contact-section form {
+	    padding:0;
+	}
+ 	.contact-section form .mb-4 {
+	    margin-bottom: 0 !important;
+	}
+	.contact-section textarea {
+	    height: 125px;
+	}
+	.contact-section .contact-bnt {
+	    margin: 15px auto 0;
+	    padding: 10px;
+	    font-size: 16px;
+	    
+	}
 }
 
